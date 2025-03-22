@@ -1,2 +1,2 @@
-# AirTransportNetwork
-Network Analisys and Visualization 
+# Air Transport Network
+Visual representation of global air transport network.
